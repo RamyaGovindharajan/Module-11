@@ -1,8 +1,5 @@
-<img width="357" height="191" alt="image" src="https://github.com/user-attachments/assets/9794857e-c1b6-44ff-a194-4d8258a534d1" /># 📚 Doubly Linked List: Insert Elements at the End of a Doubly Linked List
 
 This Python program demonstrates the creation and manipulation of a **Doubly Linked List** where elements can be inserted at the **end** of the list. The program also provides a method to traverse the list and display the elements.
-
----
 
 ## 🎯 Aim
 
