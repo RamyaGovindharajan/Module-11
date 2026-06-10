@@ -33,7 +33,7 @@ To write a Python program that:
 5. **Output**:
    - The program prints the middle element. If the list has an even number of nodes, it returns the second middle element.
 
----
+
 
 ## 💻 Program
 ```
